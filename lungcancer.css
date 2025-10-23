@@ -1,0 +1,133 @@
+.title1{
+    color:black;
+    text-align: right;
+    font-size: 50px; 
+    padding-right: 100px;
+    padding-top: 100px;
+
+}
+
+.title2 {
+    position: absolute;
+    right: 0px;
+    width: 410px;
+    
+    
+  }
+
+
+.title3{
+    color:black;
+    text-align: center;
+    font-size: 50px; 
+    padding-right: 350px;
+    
+    
+
+}
+
+
+
+
+  .title4 {
+    position: absolute;
+    left: 37px;
+    width: 900px;
+    display: flex;
+    
+    
+    
+  }
+
+  .title5{
+    color:black;
+    text-align: center;
+    font-size: 50px; 
+    padding-right: 100px;
+    padding-top: 300px;
+
+}
+
+
+  .title6{
+    
+    left: 0px;
+    width: 500px;
+    padding-left: 500px;
+    padding-bottom: 200px;
+  }
+
+
+
+
+
+
+
+
+    
+ 
+
+
+  .section1 {
+    background: 
+      linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), /* translucent overlay */
+      url('imagescancer/aakash-dhage-YhhrVdYgICc-unsplash.jpg'); /* your background image */
+    background-size: cover;      /* make it fill the page */
+    background-position: center; /* center it */
+    background-repeat: no-repeat;
+    color: white;                /* text color so it’s visible */
+  }
+
+
+  .section2 {
+    background: 
+      linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), /* translucent overlay */
+      url('imagescancer/rebekah-vos-kOqLw776D2o-unsplash.jpg'); /* your background image */
+    background-size: cover;      /* make it fill the page */
+    background-position: center; /* center it */
+    background-repeat: no-repeat;
+    color: white;                /* text color so it’s visible */
+  }
+
+
+  .section3 {
+    background: 
+      linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), /* translucent overlay */
+      url('imagescancer/europeana-4rPB78U45MA-unsplash.jpg'); /* your background image */
+    background-size: cover;      /* make it fill the page */
+    background-position: center; /* center it */
+    background-repeat: no-repeat;
+    color: white;                /* text color so it’s visible */
+  }
+
+  .section4 {
+    background: 
+      linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), /* translucent overlay */
+      url('imagescancer/valeria-smirnova-xEK8bas1vqI-unsplash.jpg'); /* your background image */
+    background-size: cover;      /* make it fill the page */
+    background-position: center; /* center it */
+    background-repeat: no-repeat;
+    color: white;                /* text color so it’s visible */
+  }
+
+
+  .section5 {
+    background: 
+      linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), /* translucent overlay */
+      url('imagescancer/pexels-thirdman-7659556.jpg'); /* your background image */
+    background-size: cover;      /* make it fill the page */
+    background-position: center; /* center it */
+    background-repeat: no-repeat;
+    color: white;                /* text color so it’s visible */
+  }
+
+  .section6 {
+    background: 
+      linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), /* translucent overlay */
+      url('imagescancer/digitale-de-S7-nZGW4-N8-unsplash.jpg'); /* your background image */
+    background-size: cover;      /* make it fill the page */
+    background-position: center; /* center it */
+    background-repeat: no-repeat;
+    color: white;                /* text color so it’s visible */
+  }
+
